@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M3ECjLB9svrZO61qWgL9jWs+H/s2GZBTOFiEJ4M7zoKLd6cEyZCqIf5NzlFgXbooIyhkDUlQhb4dijnNMtz/MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DiegoGaspar\\Desktop\\C#\\TesteOCTO_Tecnologia\\ApresentacaoAngular\\ApresentacaoAngular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DiegoGaspar\\.nuget\\packages\\microsoft.typescript.msbuild\\4.0.2\\microsoft.typescript.msbuild.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
