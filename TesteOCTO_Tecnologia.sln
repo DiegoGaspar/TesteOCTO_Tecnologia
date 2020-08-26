@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteOCTO_Tecnologia", "TesteOCTO_Tecnologia\TesteOCTO_Tecnologia.csproj", "{AA72CA78-15B0-4162-B921-3094A95E5448}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentacao", "Apresentacao", "{7F5BD5C7-0FA2-4827-82F7-C6FFA4B2AD42}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentacao_Angular", "Apresentacao_Angular", "{7F5BD5C7-0FA2-4827-82F7-C6FFA4B2AD42}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{1EDE55FD-6AA4-4795-A06A-A0EC606BE8F8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API_Teste", "API_Teste", "{1EDE55FD-6AA4-4795-A06A-A0EC606BE8F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApresentacaoAngular", "ApresentacaoAngular\ApresentacaoAngular.csproj", "{D8A634F8-2C43-45FB-8494-703875A6C7BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApresentacaoAngular", "ApresentacaoAngular\ApresentacaoAngular.csproj", "{D8A634F8-2C43-45FB-8494-703875A6C7BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
